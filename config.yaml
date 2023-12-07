@@ -1,0 +1,21 @@
+credentials:
+  usernames:
+    cdnkrmj:
+      email: cdnkrmj@gmail.com
+      name: Carlos Nogueria
+      password: $2y$10$6IBHsx8VZphG/n91CtxpDOkUP3vCdZHdeOKtSqRFHeg8W2RtVlVFa
+    malu:
+      email: malu@gmail.com
+      name: Maria Luiza
+      password: $2y$10$6IBHsx8VZphG/n91CtxpDOkUP3vCdZHdeOKtSqRFHeg8W2RtVlVFa
+    kleber:
+      email: kleber@gmail.com
+      name: Kleber
+      password: $2y$10$6IBHsx8VZphG/n91CtxpDOkUP3vCdZHdeOKtSqRFHeg8W2RtVlVFa
+cookie:
+  expiry_days: 30
+  key: some_signature_key # Must be string
+  name: some_cookie_name
+preauthorized:
+  emails:
+  - cdnkrmj@gmail.com
